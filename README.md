@@ -1,4 +1,4 @@
-# spark-practice
+# sparkPractice
 Spark Streaming实时计算
 
 
@@ -8,7 +8,7 @@ Spark Streaming实时计算
 
     类似于npm，有本地和[远程库](https://mvnrepository.com/)……
     
-### 开发步骤
+### 开发细节
 - 开发环境
 
     软件版本 | 设置
@@ -62,6 +62,8 @@ Spark Streaming实时计算
 		```
 
 ### 踩坑
+- 基本上都是版本和依赖问题
+
 现象 | 解决
 --- | ---
 pom文件检查速度慢 |[修改maven仓库](https://www.jianshu.com/p/80384612ee1d)
