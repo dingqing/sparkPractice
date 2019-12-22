@@ -2,8 +2,7 @@
 Spark Streaming实时计算
 
 
-### 理论基础
-- [Spark笔记](https://www.processon.com/view/link/5cb951d8e4b059e209ff49f1)
+### 准备知识
 - maven
 
     类似于npm，有本地和[远程库](https://mvnrepository.com/)……
